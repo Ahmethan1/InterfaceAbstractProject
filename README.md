@@ -1,2 +1,2 @@
 # InterfaceAbstractProject
-# GelecegiYazanlar
+ GelecegiYazanlar
